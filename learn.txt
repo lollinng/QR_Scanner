@@ -1,0 +1,7 @@
+pubspex.yaml    
+    path_provider:
+    qr_flutter:
+    barcode_scan:s
+
+local prop inside android
+flutter.minSdkVersion=18
